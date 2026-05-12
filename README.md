@@ -39,7 +39,8 @@ To analyze delivery performance data and identify inefficiencies across the orde
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="1421" height="794" alt="ssssss" src="https://github.com/user-attachments/assets/af2a9d38-7f82-497c-bc04-92c61260861c" />
+
 
 ---
 
